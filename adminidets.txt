@@ -1,0 +1,3 @@
+name: Siddharth
+email: siddharthhemnani1@gmail.com
+password: siddyadmin
